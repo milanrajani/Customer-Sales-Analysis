@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data files (optional - uncomment if version controlling data)
+# data/raw/*.csv
+# data/processed/*.csv
+
+# Excel files (optional - uncomment if version controlling outputs)
+# data/excel/*.xlsx
+
+# Tableau files (optional - these are large binary files)
+# tableau/*.twbx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credentials
+.env
+credentials.json
+config.local.py
+
+# Other
+*.log
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
