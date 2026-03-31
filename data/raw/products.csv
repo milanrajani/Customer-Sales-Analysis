@@ -1,0 +1,121 @@
+product_id,product_name,category,subcategory,price,cost,supplier,launch_date,status
+1,Adapters Difficult,Electronics,Adapters,101.52,60.44,Bean Ltd,2023-05-15,Active
+2,Headphones Picture,Electronics,Headphones,232.33,148.83,Smith-Bullock,2023-10-13,Active
+3,Cables Community,Electronics,Cables,54.0,24.71,"Lopez, Thompson and Webb",2025-12-30,Active
+4,Headphones Fire,Electronics,Headphones,436.75,134.23,"Bonilla, Bentley and Stokes",2022-05-21,Active
+5,Speakers Board,Electronics,Speakers,373.31,216.01,Trujillo-Cordova,2023-07-23,Active
+6,Headphones Important,Electronics,Headphones,126.27,47.45,Grimes and Sons,2022-11-20,Active
+7,Speakers Save,Electronics,Speakers,301.49,151.96,"Hanna, Martinez and Ford",2025-07-16,Active
+8,Adapters Degree,Electronics,Adapters,282.07,189.86,Snyder-Wallace,2024-10-16,Active
+9,Headphones Someone,Electronics,Headphones,143.39,62.64,Howell-Mcdowell,2024-09-05,Active
+10,Headphones Yet,Electronics,Headphones,293.47,109.05,Richards Ltd,2025-08-31,Active
+11,Chargers Marriage,Electronics,Chargers,495.47,311.84,Warner PLC,2025-01-17,Active
+12,Adapters Enjoy,Electronics,Adapters,21.79,8.75,Stanton-Miranda,2024-07-29,Active
+13,Adapters Record,Electronics,Adapters,267.64,175.49,"Cook, Taylor and Reid",2024-03-16,Active
+14,Chargers Employee,Electronics,Chargers,40.41,19.81,Taylor-Hill,2025-01-19,Active
+15,Speakers Language,Electronics,Speakers,131.33,53.73,"Patel, Tran and Riley",2025-08-30,Active
+16,Adapters News,Electronics,Adapters,348.58,228.24,"Petty, Hernandez and Fowler",2022-10-21,Active
+17,Adapters Yet,Electronics,Adapters,388.1,247.31,"Benjamin, Torres and Tapia",2023-12-26,Active
+18,Chargers Reveal,Electronics,Chargers,316.17,179.11,Ruiz-Pennington,2022-04-21,Active
+19,Headphones Cell,Electronics,Headphones,209.98,112.77,White-Griffin,2024-03-17,Active
+20,Cables Decade,Electronics,Cables,475.66,231.22,Young-Andersen,2023-06-05,Active
+21,Cables Listen,Electronics,Cables,251.26,130.89,Carr-Cannon,2025-08-18,Active
+22,Headphones Prevent,Electronics,Headphones,399.23,177.08,Walsh Group,2023-10-17,Active
+23,Chargers Lot,Electronics,Chargers,39.94,25.47,"Gonzalez, Burke and Kennedy",2025-07-12,Active
+24,Chargers Officer,Electronics,Chargers,426.14,151.46,Harding Group,2022-07-19,Active
+25,Shoes Window,Apparel,Shoes,404.22,268.59,"Stevens, Taylor and Vaughn",2022-06-29,Active
+26,Accessories Successful,Apparel,Accessories,406.73,255.95,Hunt Group,2025-04-19,Active
+27,Shoes Let,Apparel,Shoes,337.03,220.97,"Stafford, Gibson and Ramirez",2025-09-16,Active
+28,Accessories Mrs,Apparel,Accessories,283.07,162.41,Preston-Kirk,2023-07-11,Active
+29,Accessories Keep,Apparel,Accessories,50.31,33.05,Li Inc,2023-09-05,Active
+30,Jackets Lawyer,Apparel,Jackets,117.8,78.72,"Logan, Schmidt and Bowers",2022-10-18,Active
+31,Shoes When,Apparel,Shoes,378.08,144.08,"Rose, Gross and Parker",2022-12-06,Active
+32,Jackets Create,Apparel,Jackets,385.92,266.81,"Patrick, Reynolds and Ray",2024-04-26,Active
+33,Shoes Remember,Apparel,Shoes,435.73,282.12,"Carney, Thornton and Miller",2023-08-03,Active
+34,Jackets Ahead,Apparel,Jackets,73.09,29.68,Cervantes Group,2023-05-03,Active
+35,Jackets Thing,Apparel,Jackets,196.42,63.37,Marshall LLC,2025-02-24,Active
+36,T-Shirts I,Apparel,T-Shirts,193.53,79.95,"Ramirez, Brooks and Campbell",2025-07-10,Active
+37,T-Shirts Save,Apparel,T-Shirts,456.77,287.84,Dixon Group,2025-08-23,Active
+38,Jackets Pass,Apparel,Jackets,456.69,200.78,Russell-Williams,2024-07-02,Active
+39,Jackets Send,Apparel,Jackets,192.49,66.3,Harris-Alvarez,2023-06-23,Active
+40,Accessories Those,Apparel,Accessories,291.22,102.25,Wheeler and Sons,2024-08-19,Active
+41,Accessories Stuff,Apparel,Accessories,494.32,342.83,"Powell, Drake and Turner",2025-09-19,Active
+42,T-Shirts Water,Apparel,T-Shirts,27.4,18.64,"Rowland, Koch and Edwards",2023-02-24,Active
+43,T-Shirts Particularly,Apparel,T-Shirts,163.87,81.44,Robinson LLC,2025-03-30,Active
+44,Jackets Hair,Apparel,Jackets,358.45,184.43,"Callahan, Rodriguez and Kelly",2023-06-10,Active
+45,Accessories Walk,Apparel,Accessories,196.02,107.63,Blankenship Inc,2025-06-24,Active
+46,Jeans True,Apparel,Jeans,257.84,154.76,"Watson, Hoffman and Harper",2023-06-27,Active
+47,Jeans When,Apparel,Jeans,25.48,16.33,Sanchez-Adams,2025-09-05,Active
+48,Jeans Feeling,Apparel,Jeans,32.79,16.66,"Ramirez, Bauer and Reynolds",2024-04-15,Active
+49,Blankets Everybody,Home & Garden,Blankets,235.74,146.8,"Mayer, Simpson and Maynard",2022-09-22,Active
+50,Lamps Product,Home & Garden,Lamps,364.85,228.49,Bradford and Sons,2022-11-15,Active
+51,Plants Plan,Home & Garden,Plants,383.99,208.65,Allen LLC,2022-03-15,Active
+52,Rugs Owner,Home & Garden,Rugs,263.5,99.58,Butler-Cook,2023-05-29,Active
+53,Plants Example,Home & Garden,Plants,239.01,140.89,Anderson Inc,2022-09-16,Active
+54,Pillows Training,Home & Garden,Pillows,221.65,102.87,"Romero, Peterson and Greer",2024-04-17,Active
+55,Pillows Into,Home & Garden,Pillows,223.55,80.35,"Hoffman, Morales and Gill",2022-06-28,Active
+56,Pillows Value,Home & Garden,Pillows,438.39,286.34,"Paul, Hinton and Martin",2023-10-13,Active
+57,Lamps Consumer,Home & Garden,Lamps,177.36,75.15,Kim-Smith,2023-05-16,Active
+58,Rugs Morning,Home & Garden,Rugs,418.77,208.77,Mcdonald Inc,2025-10-15,Active
+59,Plants Vote,Home & Garden,Plants,193.07,113.64,Ramos-Foley,2024-10-17,Active
+60,Rugs Second,Home & Garden,Rugs,318.48,179.64,Holland and Sons,2022-03-20,Active
+61,Plants Threat,Home & Garden,Plants,454.84,191.99,Patrick-Gibson,2024-12-12,Active
+62,Plants Century,Home & Garden,Plants,221.76,129.85,Johnson PLC,2023-10-18,Active
+63,Pillows Blue,Home & Garden,Pillows,440.91,255.89,Montes and Sons,2022-08-22,Active
+64,Plants System,Home & Garden,Plants,368.55,230.24,Robinson-Nelson,2025-01-31,Active
+65,Plants Situation,Home & Garden,Plants,341.36,189.92,"Allen, Johnson and Green",2023-10-03,Active
+66,Rugs Tax,Home & Garden,Rugs,483.65,218.18,Jackson-Stone,2022-08-11,Active
+67,Lamps Teacher,Home & Garden,Lamps,153.48,88.62,Torres PLC,2025-09-14,Active
+68,Pillows Tax,Home & Garden,Pillows,222.06,127.9,"Richardson, Kramer and Thompso",2023-06-24,Active
+69,Rugs Long,Home & Garden,Rugs,458.49,188.23,Russell-Lopez,2024-05-13,Active
+70,Lamps Health,Home & Garden,Lamps,171.67,111.73,Brown-Brown,2025-12-05,Active
+71,Lamps Letter,Home & Garden,Lamps,28.61,10.97,Garcia-George,2022-06-24,Active
+72,Lamps Modern,Home & Garden,Lamps,65.33,21.32,"Price, Lewis and Campbell",2022-08-24,Active
+73,Running Shoes House,Sports,Running Shoes,287.09,136.54,"Smith, Donaldson and Anderson",2024-05-25,Active
+74,Gym Bags Phone,Sports,Gym Bags,190.32,108.15,Moore Ltd,2025-03-07,Active
+75,Yoga Mats Let,Sports,Yoga Mats,368.03,253.74,"Mckenzie, Bird and Jackson",2023-02-04,Active
+76,Running Shoes Drug,Sports,Running Shoes,284.72,172.96,Thompson Inc,2022-12-15,Active
+77,Gym Bags Mission,Sports,Gym Bags,77.84,53.57,"Richardson, Harper and Smith",2022-07-11,Active
+78,Dumbbells Move,Sports,Dumbbells,446.41,245.1,"Miller, Escobar and Brown",2024-09-18,Active
+79,Dumbbells Rate,Sports,Dumbbells,332.85,147.11,Meza PLC,2022-12-16,Active
+80,Yoga Mats Including,Sports,Yoga Mats,167.09,88.35,"Olson, James and Murphy",2023-10-10,Active
+81,Water Bottles Possible,Sports,Water Bottles,105.22,46.93,"Martinez, Ruiz and Kelly",2022-11-24,Active
+82,Water Bottles At,Sports,Water Bottles,148.5,55.47,Jones Ltd,2022-11-12,Active
+83,Dumbbells Cause,Sports,Dumbbells,401.78,157.11,Williams LLC,2023-05-06,Active
+84,Running Shoes Everybody,Sports,Running Shoes,169.81,92.62,Knight Group,2022-04-08,Active
+85,Water Bottles Data,Sports,Water Bottles,179.28,64.23,Mcdonald-Wood,2024-01-05,Active
+86,Running Shoes Floor,Sports,Running Shoes,338.95,214.45,Miller-Brown,2023-01-15,Active
+87,Gym Bags Media,Sports,Gym Bags,205.93,79.03,Francis-Lewis,2024-04-06,Active
+88,Gym Bags Avoid,Sports,Gym Bags,369.62,225.32,Reid PLC,2023-04-30,Active
+89,Water Bottles Decade,Sports,Water Bottles,121.8,45.92,Harris-Cherry,2025-09-05,Active
+90,Water Bottles New,Sports,Water Bottles,373.13,159.57,"Green, Klein and Fitzpatrick",2022-03-07,Active
+91,Water Bottles His,Sports,Water Bottles,139.34,45.5,"Jones, Dorsey and Morse",2025-06-22,Active
+92,Water Bottles Trial,Sports,Water Bottles,91.52,32.86,"Pugh, Clements and Warner",2023-03-31,Active
+93,Water Bottles Special,Sports,Water Bottles,497.33,237.2,Hall-Marsh,2025-01-01,Active
+94,Gym Bags Officer,Sports,Gym Bags,57.49,23.93,Chapman Ltd,2024-01-25,Active
+95,Dumbbells Them,Sports,Dumbbells,58.27,30.55,Graham-Maynard,2025-03-02,Active
+96,Running Shoes Choose,Sports,Running Shoes,108.64,52.01,Chavez Ltd,2022-08-22,Active
+97,Educational Left,Books,Educational,42.94,24.41,"Moran, Scott and Adams",2023-05-28,Active
+98,Self-Help Control,Books,Self-Help,145.87,83.66,Mendez-Harding,2022-07-18,Active
+99,Children Six,Books,Children,244.91,115.59,Castro-Mcdonald,2025-04-16,Active
+100,Self-Help Citizen,Books,Self-Help,159.82,74.06,Patterson-Meyer,2025-09-21,Active
+101,Fiction Create,Books,Fiction,218.3,80.85,"Nelson, Martinez and Mccormick",2023-06-15,Active
+102,Children Bit,Books,Children,278.78,171.49,Lawson Inc,2025-03-18,Active
+103,Educational Mind,Books,Educational,475.49,306.18,"Noble, Wong and Levy",2023-12-22,Active
+104,Non-Fiction Structure,Books,Non-Fiction,86.13,40.12,Mendoza-Davis,2023-07-23,Active
+105,Children Management,Books,Children,388.71,150.68,"Andersen, Vega and Wheeler",2023-09-11,Active
+106,Self-Help Shoulder,Books,Self-Help,339.05,121.93,"Mcconnell, Smith and Bell",2023-02-18,Active
+107,Self-Help Worry,Books,Self-Help,129.74,77.31,Harris-Faulkner,2025-05-19,Active
+108,Non-Fiction Nice,Books,Non-Fiction,476.77,193.4,Nash-Strong,2023-12-26,Active
+109,Children Figure,Books,Children,37.85,14.48,Gallegos-Wolf,2022-12-30,Active
+110,Fiction Direction,Books,Fiction,280.47,89.39,Haney PLC,2024-01-23,Active
+111,Children Consider,Books,Children,416.04,146.71,Morris and Sons,2022-07-18,Active
+112,Fiction Piece,Books,Fiction,281.17,99.28,Owens-Meyer,2022-02-15,Active
+113,Children Choice,Books,Children,452.83,150.67,Daugherty-Horne,2023-08-07,Active
+114,Fiction Cell,Books,Fiction,479.23,172.1,"Williams, Stanton and Harris",2023-07-09,Active
+115,Self-Help Figure,Books,Self-Help,280.25,175.09,"Howard, Patel and Soto",2024-02-27,Active
+116,Educational Scientist,Books,Educational,93.66,60.7,Gonzalez-Jackson,2022-08-19,Active
+117,Children Television,Books,Children,51.77,26.6,Thompson-Buchanan,2025-05-04,Active
+118,Non-Fiction Read,Books,Non-Fiction,366.4,180.16,Owens Group,2022-04-12,Active
+119,Non-Fiction Have,Books,Non-Fiction,188.06,121.04,"Brown, Gonzales and Jenkins",2024-04-04,Active
+120,Children Chair,Books,Children,63.54,29.66,"Barrett, Hamilton and Ponce",2024-04-12,Active
